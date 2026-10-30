@@ -1,13 +1,10 @@
 node_modules/
+dist/
 .next/
-backend/dist/
 backend/data/
-.env
-.env.local
-.env.*.local
-**/.env
-**/.env.*
+**/.env*
 !**/.env.example
 !**/.env.*.example
+cold-call-transcripts-100/
 .DS_Store
 npm-debug.log*
